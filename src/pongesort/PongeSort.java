@@ -16,6 +16,7 @@ public class PongeSort {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        char [] array = {'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'q', 'l'};
+        
     }
-    
 }
